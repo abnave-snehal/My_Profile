@@ -100,9 +100,8 @@ console.log(Snehal.getCurrentFocus());
 
 </div>
 
-- 🎯 Developing and maintaining full-stack web applications using MERN stack
+- 🎯 Developing and maintaining full-stack web applications using React
 - 🚀 Implementing responsive UI/UX designs with React and modern CSS
-- ⚡ Building RESTful APIs and managing databases with MongoDB
 - 🔧 Optimizing application performance and code quality
 - 👥 Collaborating with cross-functional teams in Agile environment
 
